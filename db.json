@@ -4,7 +4,7 @@
           "id": 1,
           "name": "Iphone 14",
           "prix": "7000 DT",
-          "image":"04",
+          "image": require("@/assets/iphone14.png"),
           "livraison": "4-5 Jours",
           "stock": 15,
         },
@@ -12,8 +12,7 @@
           "id": 2,
           "name": "Iphone 13",
           "prix": "5000 DT",
-          "image":
-            "https://img.etimg.com/thumb/width-640,height-480,imgsize-26152,resizemode-1,msid-94601474/news/new-updates/missed-buying-iphone-13-in-recent-sale-you-may-get-another-chance-in-few-days-read-where-how/netizens-slam-flipkart-after-iphone-13-orders-cancelled-e-commerce-giant-says-mostly-successful-deliveries-less-than-3-impacted-due-to-anomalies.jpg",
+          "image": require("@/assets/iphone13.png"),
           "livraison": "3-4 Jours",
           "stock": 0,
         },
@@ -21,8 +20,7 @@
           "id": 3,
           "name": "Iphone 12",
           "prix": "3500 DT",
-          "image":
-            "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-finish-select-202207-purple_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1662150034211",
+          "image":require("@/assets/iphone 12.png"),
           "livraison": "2-3 Jours",
           "stock": 25,
         },
@@ -30,8 +28,7 @@
           "id": 4,
           "name": "Iphone 11",
           "prix": "2500 DT",
-          "image":
-            "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/1dd0zowttdiwpokc_1650631354.jpeg",
+          "image": require("@/assets/iphone14.png"),
           "livraison": "2-3 Jours",
           "stock": 35,
         }
