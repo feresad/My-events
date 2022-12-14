@@ -31,6 +31,6 @@
           "image": require("@/assets/iphone14.png"),
           "livraison": "2-3 Jours",
           "stock": 35,
-        }
+        },
   ]
 }
