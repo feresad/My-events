@@ -4,7 +4,7 @@
           "id": 1,
           "name": "Iphone 14",
           "prix": "7000 DT",
-          "image": require("@/assets/iphone14.png"),
+          "image": "require("@/assets/iphone14.png")",
           "livraison": "4-5 Jours",
           "stock": 15,
         },
