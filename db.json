@@ -6,7 +6,7 @@
           "prix": "7000 DT",
           "image": "https://user-images.githubusercontent.com/53236659/207625605-516bfecc-6155-4073-a8b3-4140d143a804.png",
           "livraison": "4-5 Jours",
-          "stock": 15,
+          "stock": 15
         },
         {
           "id": 2,
@@ -14,7 +14,7 @@
           "prix": "5000 DT",
           "image": "https://user-images.githubusercontent.com/53236659/207625854-dc490ca8-4a1b-472c-a37d-84d1a6594262.png",
           "livraison": "3-4 Jours",
-          "stock": 0,
+          "stock": 0
         },
         {
           "id": 3,
@@ -22,7 +22,7 @@
           "prix": "3500 DT",
           "image": "https://user-images.githubusercontent.com/53236659/207625927-42ac7bf0-cb22-4b99-87dd-b0ce60b51ed0.png",
           "livraison": "2-3 Jours",
-          "stock": 25,
+          "stock": 25
         },
         {
           "id": 4,
@@ -30,7 +30,7 @@
           "prix": "2500 DT",
           "image": "https://user-images.githubusercontent.com/53236659/207626083-08e343c8-cd02-418e-b9e5-e9fa8e8950ee.png",
           "livraison": "2-3 Jours",
-          "stock": 35,
-        },
+          "stock": 35
+        }
   ]
 }
